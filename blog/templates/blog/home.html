@@ -1,9 +1,10 @@
 {%extends 'blog/base.html' %}
 {%load static%}
 
-
+<link rel="stylesheet" href="{% static '/css/home.css' %}" type="text/css">
 <body>
 	{%block content%}
+	<div class="recent">Recent Posts</div>
 	{% for blog in blogs.all %}
 	<div class='container'>
 		<h1>{{blog.title}}</h1>
