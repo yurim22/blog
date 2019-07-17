@@ -1,0 +1,1 @@
+web: guicorn secondproject.wsgi --log-file-
