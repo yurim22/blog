@@ -1,1 +1,1 @@
-web: guicorn secondproject.wsgi --log-file-
+web: guicorn blogproject.wsgi --log-file-
