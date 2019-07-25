@@ -2,7 +2,7 @@ Django - Blog 만들기
 ----------------------
 
 #멋쟁이사자처럼 과제
-
+# https://blogyurim.herokuapp.com/
 ## blog main page
 <img width="950" alt="bloghome" src="https://user-images.githubusercontent.com/33304898/61354583-71966100-a8ad-11e9-9f55-b011f3560a20.PNG">
 
